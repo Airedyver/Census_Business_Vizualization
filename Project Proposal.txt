@@ -1,20 +1,36 @@
-Project Title: Car Sale Influence
+Project Title: Second Job Influences for DMV area
 Team Members: Raphael Oduok, Ashley Johnson, Ethan Craddock, Carol W
 Project Description:
-Thesis: What different factors influenced car sales between 2011 -2016?
-External Factors: Media, Geography, Demographics Consumer Rating, Expert Rating
- Internal Factors : Awards , Recalls, Price, Features of the Car, Safety, Technology, MPG, Car Types (Hybrid, Luxury, SUVs, Trucks, Work Vehicles) 
-The goal of our project is to compare data from cars sales from the past five years to determine what factors influence car sales the most.  Our factors will include demographic and geographic to analyze types of cars for region, and how advertising may have been pushed in these areas to increase sales.  We will also measure features of cars to see what are most important to car buyers.
 Research Questions to Answer:
-Money spent on advertising plotted against sales
-Top ten car brand sales for each year, and where was their advertising(social media, television), and where were the sales geographically? 
-Does Kelly Bluebook consumer reports matter?
-Do awards matter?
-What demographics are buying which brands and how does it correlate to advertising? 
-Leasing Vs. Buying?
-Car Type, Urban? Rural/Suburban? 
+What is the strongest majority demographic of people working two jobs in the DMV and why?
+Gender
+Race 
+Single/Married/Divorce
+Cost of  Living
+Cost of Housing
+Age
+Level of Education
+Less than High School
+High School
+Some College
+College or Higher
+Income to debt ratio
+Home ownership
+Student loan
+Credit card debt
+Dependents
+Hobby
+Breadwinner 
+
+The goal of our project is to compare data from the Census Bureau and Bureau of Labor and Statistics to determine the strongest factor of why people must have 2 jobs. Theories include student debt, divorce with children, and affordability of housing.
+Research Questions to Answer:
 Data Sets to Be Used: 
-Kelly Blue Book API- This is a consumer reporting data set
-Edmunds API- This is a dealership reporting data set
+Census API
+Census Data Sets
+Bureau of Labor and Statistics
 Rough Break down of Tasks: 
-Mostly Research 
+Ethan : Research Bureau of Labor and Statistics
+Ashley: Research Census Data Sets
+Raphael: Census APIs 
+
+

@@ -1,1 +1,1 @@
-# Project-1-Team4
+This was a team based project that used Census County Business PArtnership data and the Department of Labor and Statistics to analyze if the number of businesses and employees helped the economy in each state. 
